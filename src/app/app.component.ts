@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Project-Dashboard';
+  sidebar:boolean=true;
+  sidebarToggle()
+{
+   this.sidebar=!this.sidebar  
+}
 }

@@ -1,0 +1,25 @@
+/* .area{
+    background-color: #1d2634;
+} */
+.card
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.parent
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.area
+{
+    margin-top: 20px;
+    /* background-color: #1d2634; */
+}
+/* mat-card
+{
+    box-shadow: 10px 5px  rgb(118, 117, 117);
+} */

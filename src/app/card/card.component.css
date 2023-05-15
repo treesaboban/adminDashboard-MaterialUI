@@ -1,0 +1,44 @@
+.card
+{
+    width: 250px;
+    /* text-align: center; */
+    /* height: 200px; */
+    padding: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+/* .card:hover{
+    transform: scale(1.1);
+} */
+div
+{
+    padding: 10px;
+}
+.orange{
+    background-color: #fb923c;
+}
+.green
+{
+    background-color: #84cc16;
+}
+.red
+{
+    background-color: #ef4444;
+}
+.blue
+{
+    background-color: #60a5fa;
+}
+.icon
+{
+    font-size: 50px;
+    width: fit-content;
+    height: fit-content;
+}
+.content h3
+{
+    font-family:'Courier New', Courier, monospace;
+    font-size: larger;
+}

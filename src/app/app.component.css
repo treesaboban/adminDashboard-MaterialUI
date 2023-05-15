@@ -1,0 +1,10 @@
+mat-drawer-container
+{
+    height: 600px;
+}
+mat-drawer {
+    background-color: #c4b5fd;
+}
+app-footer{
+    background-color: #7c3aed;
+}
